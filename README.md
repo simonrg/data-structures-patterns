@@ -8,9 +8,3 @@
 	3. Command pattern (spike 15)
 	4. Component pattern (spike 14)
 	5. Composite pattern (spike 13)
-
-
-- the composite pattern spike is the final Zorkish solution which implements all the features from previous spikes
-	- game can load levels
-	- has a command parser
-	- items can contain other items
