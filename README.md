@@ -1,3 +1,5 @@
+PLEASE READ
+
 - The spikes for the Zorkish demo were completed in an order different to the spike number
 
 - to avoid confusion please refer to the spikes in the following order
