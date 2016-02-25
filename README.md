@@ -1,10 +1,8 @@
-###PLEASE READ###
+###Engine development###
 
-- The spikes for the Zorkish demo were completed in an order different to the spike number
-
-- to avoid confusion please refer to the spikes in the following order
-	1. Game state manager (spike 12)
-	2. Graphs (spike 17)
-	3. Command pattern (spike 15)
-	4. Component pattern (spike 14)
-	5. Composite pattern (spike 13)
+- Series of spikes demonstrating some practical implementation of concepts for large application, engine and game development
+	1. Blocking and non-blocking loops
+	2. Simple Direct Media Layer framework initialisation and feature demonstrations
+	3. Programming patterns
+	4. Data structure patterns
+	5. Engine optimisation
